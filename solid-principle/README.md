@@ -16,6 +16,7 @@
 
 ### L - Liskov Substitution Principle
 * If Class B is subtype of Class A, then we should be able to replace object A with B without breaking the behaviour of the program
+* Subclass should extend the capability of parent class not narrow it down
 
 ### I - Interface Segmented Principle
 * Interface should be such that client should not implement unnecessary function they do not needed
