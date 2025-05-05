@@ -8,7 +8,7 @@ if __name__ == "__main__":
     iphone_observable.attach(
         EmailNotificationObserver("dinesh@test.com", iphone_observable))
     iphone_observable.attach(
-        EmailNotificationObserver("fedemo@test.com", iphone_observable))
+        EmailNotificationObserver("demo@test.com", iphone_observable))
 
     iphone_observable.attach(
         SMSNotificationObserver("9988776655", iphone_observable))

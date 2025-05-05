@@ -2,7 +2,7 @@
 Principle: I - Interface Segmented Principle
 
     Interface should be such that client should not implement
-    unnecessary function they do not needed
+    unnecessary function they do not need
 
 Problem:
 
